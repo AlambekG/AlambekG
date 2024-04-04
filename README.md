@@ -9,17 +9,20 @@ Feel free to email me at alan.gulamidinov@gmail.com
   
 ### :book: Programming Languages :book:
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 
 ---
 ###   💻    OS    💻 
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 ### :hammer_and_pick: Tools :hammer_and_pick:
@@ -29,6 +32,8 @@ Feel free to email me at alan.gulamidinov@gmail.com
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
+![Unity][https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white]
 ---
 ### :muscle: Problem Solving :muscle:
 
@@ -43,7 +48,7 @@ Feel free to email me at alan.gulamidinov@gmail.com
 
 :octocat: github stats :octocat:
  
-<a href="https://github.com/Heox1"><img align="center" style="width :400px" src="https://github-readme-stats.vercel.app/api?username=Heox1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&theme=gradient&hide=issues&hide_border=true&count_private=true&line_height=27&border_radius=15" alt="Alambek's GitHub stats"/></a>
-<a href="https://github.com/Heox1"><img align="center" style="width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heox1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&hide=css,scss,HTML&text_color=fff&hide_border=true&card_width=400px&border_radius=15"/></a>
+<a href="https://github.com/AlambekG"><img align="center" style="width :400px" src="https://github-readme-stats.vercel.app/api?username=AlambekG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&theme=gradient&hide=issues&hide_border=true&count_private=true&line_height=27&border_radius=15" alt="Alambek's GitHub stats"/></a>
+<a href="https://github.com/AlambekG"><img align="center" style="width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlambekG&layout=compact&bg_color=30,e96443,904e95&title_color=fff&hide=css,scss,HTML&text_color=fff&hide_border=true&card_width=400px&border_radius=15"/></a>
 
 
