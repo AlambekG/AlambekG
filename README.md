@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Alambek Gulamidinov
-- Senior CSE student at Ulsan National Institute of Science and Technology
+- Recent graduate CSE student of the Ulsan National Institute of Science and Technology
 - 🌱 I am eager to learn, get experience, and contribute to the development of the computer era in the future
 - 📫 If you are interested in me or have a job suggestion
 Feel free to email me at alan.gulamidinov@gmail.com 
