@@ -48,7 +48,7 @@ Feel free to email me at alan.gulamidinov@gmail.com
 
 [![LeetCode user Nerond](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNerond&logo=leetcode&logoColor=yellow)](https://leetcode.com/Nerond/) 
 
-<a href="https://github.com/Heox1"><img align="center" style="width :400px" src="https://leetcode-badge-showcase.vercel.app/api?username=Nerond&theme={your-theme}" alt="LeetCode Badges"/></a>
+<a href="https://github.com/AlambekG"><img align="center" style="width :400px" src="https://leetcode-badge-showcase.vercel.app/api?username=Nerond&theme={your-theme}" alt="LeetCode Badges"/></a>
 
 <!---  ![LeetCode Stats](https://leetcode.card.workers.dev/Nerond?theme=dark&font=baloo&extension=null) --->
 
