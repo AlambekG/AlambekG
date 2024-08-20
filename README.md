@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alambek Gulamidinov 
-- Software Engineer, Computer Science graduate of the Ulsan National Institute of Science and Technology 🇰🇷
-- 🌱 I am eager to learn, get experience, and contribute to the development of the computer era in the future
+- Software Engineer, 24' Computer Science graduate of the Ulsan National Institute of Science and Technology 🇰🇷
+- 🌱 I am eager to learn, get experience, and contribute to the society via software solutions and computer science
 - 📫 If you are interested in me or have a job suggestion
 Feel free to email me at alan.gulamidinov@gmail.com 
 
