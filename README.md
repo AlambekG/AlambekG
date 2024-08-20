@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Alambek Gulamidinov 
-- Software Engineer, a recent graduate of the Ulsan National Institute of Science and Technology 🇰🇷
+- Software Engineer, Computer Science graduate of the Ulsan National Institute of Science and Technology 🇰🇷
 - 🌱 I am eager to learn, get experience, and contribute to the development of the computer era in the future
 - 📫 If you are interested in me or have a job suggestion
 Feel free to email me at alan.gulamidinov@gmail.com 
@@ -20,6 +20,7 @@ Feel free to email me at alan.gulamidinov@gmail.com
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ---
 ### :hammer_and_pick: Tools :hammer_and_pick:
@@ -28,7 +29,9 @@ Feel free to email me at alan.gulamidinov@gmail.com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <!--- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) --->
-![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white)
+![Nest.Js](https://img.shields.io/badge/nest.js-404D59?style=for-the-badge&logo=nest.js&logoColor=white)
+![Next.Js](https://img.shields.io/badge/next.js-404D59?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--- ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) --->
 
