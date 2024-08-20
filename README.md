@@ -14,13 +14,13 @@ Feel free to email me at alan.gulamidinov@gmail.com
 
 ### :book: Programming Languages :book:
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<!---![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) --->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-DC322F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 ### :hammer_and_pick: Tools :hammer_and_pick:
@@ -29,9 +29,9 @@ Feel free to email me at alan.gulamidinov@gmail.com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <!--- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) --->
+![Nest.Js](https://img.shields.io/badge/nest.js-DC322F?style=for-the-badge&logo=nest.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white)
-![Nest.Js](https://img.shields.io/badge/nest.js-404D59?style=for-the-badge&logo=nest.js&logoColor=white)
-![Next.Js](https://img.shields.io/badge/next.js-404D59?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.Js](https://img.shields.io/badge/next.js-DC322F?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--- ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) --->
 
@@ -44,14 +44,14 @@ Feel free to email me at alan.gulamidinov@gmail.com
 
 
 ---
-<!--- ### :muscle: Problem Solving :muscle: --->
+<!-- :muscle: --->
+###  :1st_place_medal:  Problem Solving  :1st_place_medal: 
 
-:1st_place_medal: Leetcode :1st_place_medal:
+ Codeforces:  ![Codeforces user Nerond](https://badges.riever.dev/codeforces/neroond.svg)
 
+ Leetcode: ![LeetCode user Nerond](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsnerond&logo=leetcode&logoColor=yellow)
 
-[![LeetCode user Nerond](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNerond&logo=leetcode&logoColor=yellow)](https://leetcode.com/Nerond/) 
-
-<a href="https://leetcode.com/Nerond"><img align="center" style="width :400px" src="https://leetcode-badge-showcase.vercel.app/api?username=Nerond&theme={your-theme}" alt="LeetCode Badges"/></a>
+<a href="https://leetcode.com/snerond"><img align="center" style="width :400px" src="https://leetcode-badge-showcase.vercel.app/api?username=snerond&theme=dark&border=border&animated=true" alt="LeetCode Badges"/></a>
 
 <!---  ![LeetCode Stats](https://leetcode.card.workers.dev/Nerond?theme=dark&font=baloo&extension=null) --->
 
