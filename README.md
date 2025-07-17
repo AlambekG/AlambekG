@@ -1,8 +1,7 @@
 - 👋 Hi, I'm Alambek Gulamidinov 
 - Software Engineer, Computer Science graduate from <a href="https://www.timeshighereducation.com/world-university-rankings/ulsan-national-institute-science-and-technology-unist"> UNIST </a> 🇰🇷
 - 🌱 I am eager to learn, get experience, and contribute to society via software solutions and computer science
-- 📫 If you are interested in me or have a job suggestion
-Feel free to email me at alan.gulamidinov@gmail.com 
+- 📫 Feel free to email me at alan.gulamidinov@gmail.com 
 
 <div align="center">
 <br>
